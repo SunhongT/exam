@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>강화천문대</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="wrap" class="clearfix">
+        <div id="header">
+            <div class="logo">logo</div>
+            <div class="menu">menu</div>
+        
+        
+        </div>
+        <div id="main">main</div>
+        <div id="cont">cont</div>
+        <div id="foot">foot</div>
+        
+    </div>
+
+
+
+<!--
+
+<div id="wrap">
+    <div id="header">header</div>
+    <div id="main">main</div>
+    <div id="cont">contents</div>
+    <div id="foot">footer</div>
+</div>
+-->
+<!--
+    <div id="wrap">
+        <div id="header">header</div>
+        <div id="main">main</div>
+        <div id="contents">contents</div>
+        <div id="foot">foot</div>    
+    </div>
+-->
+    
+    
+</body>
+</html>
